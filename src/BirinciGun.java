@@ -12,7 +12,7 @@ public class BirinciGun {
 		System.out.println("yepyeni bir satir");
 		System.out.println("10:26 -  feature branch");
 		System.out.println("20:52 - feature deneme ");
-		System.out.println("feature branch'a ekle");
+		System.out.println("11:09 - master branch ");
 		System.out.println("featur branch");
 
 
